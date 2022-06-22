@@ -1,4 +1,4 @@
-# :technologist: Portifolio
+# :technologist: Portfólio
 
 ## O meu site
 - Desenvolvido para expor meus trabalhos
